@@ -4,7 +4,7 @@ import javax.ws.rs.GET;
 import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
-import server.model.ProductoVO;
+import server.vo.ProductoVO;
 import server.service.ProductoServiceImpl;
 import server.service.ProductoService;
 

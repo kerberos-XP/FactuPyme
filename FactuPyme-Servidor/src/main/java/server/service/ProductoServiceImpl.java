@@ -1,6 +1,6 @@
 package server.service;
 
-import server.model.ProductoVO;
+import server.vo.ProductoVO;
 
 /**
  *
